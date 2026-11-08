@@ -1,3 +1,6 @@
 [submodule "3rdparty/polyscope"]
 	path = 3rdparty/polyscope
 	url = https://github.com/nmwsharp/polyscope.git
+[submodule "3rdparty/eigen"]
+	path = 3rdparty/eigen
+	url = https://gitlab.com/libeigen/eigen.git
